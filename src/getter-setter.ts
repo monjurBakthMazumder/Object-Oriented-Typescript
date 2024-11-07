@@ -9,7 +9,6 @@
             this.id = id;
             this.name = name;
             this._balance = balance;
-
         }
 
         public addDeposit(amount : number){
@@ -21,11 +20,7 @@
         }
     }
 
-    class StudentAccount extends BankACCount {
-        test(){
-            this._balance
-        }
-    }
+
 
     const poor = new BankACCount (11, "monjur", 25)
     poor.addDeposit(20)

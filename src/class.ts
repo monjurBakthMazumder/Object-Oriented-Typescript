@@ -34,7 +34,6 @@
 
     const dog2 = new Animal2("German shepherd", "dog", "Ghew")
     const cat2 = new Animal2("Cute cat", "cat", "meaw")
-    
     cat.makeSound()
     dog.makeSound()
 

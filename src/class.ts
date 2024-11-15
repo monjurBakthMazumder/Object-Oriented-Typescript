@@ -22,7 +22,7 @@
     dog.makeSound()
 
 
-    // parameter properties
+    // parameter properties 
     class Animal2 {
         constructor(public name: string,public species: string,public sound: string) {
         }
